@@ -1,0 +1,4 @@
+Witold,Wotek,4400,pass,400.0
+Lech,Roch,5771,qwerty,105.0
+Nikołaj,Gogol,5278,nos,1500.0
+Kamil,Nowak,318,haslo,2.0
